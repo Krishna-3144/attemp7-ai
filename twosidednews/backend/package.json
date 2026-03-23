@@ -15,7 +15,8 @@
     "express-rate-limit": "^7.1.5",
     "groq-sdk": "^1.1.1",
     "mongoose": "^8.0.3",
-    "node-cache": "^5.1.2"
+    "node-cache": "^5.1.2",
+    "xml2js": "^0.6.2"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
